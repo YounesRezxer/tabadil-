@@ -1,5 +1,10 @@
 
-جهت سرگرمی !!!!
+> **Note:** This repository is shared for portfolio purposes only. The application was developed exclusively for a private organization, and any confidential data, assets, or business logic have been removed.
+> .
+> .
+> .
+> .
+> 
 ‏تبدیل تومان به ریال
 آیا تابه‌حال برنامه ‏تبدیل تومان به ریال را امتحان کرده‌اید؟ این برنامه با امکانات کاربردی و ویژگی‌هایی خاص، تجربه‌ای متفاوت را برای شما رقم می‌زند.
 دانلود برنامه ‏تبدیل تومان به ریال
